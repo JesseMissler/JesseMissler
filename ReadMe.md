@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning software development at roc midden nederland!<br>mostly experienced with php, some experience with C and java.<br>going to put personal projects on here, aswell as any related to school.<br>
+i'm currently learning software development at roc midden nederland!<br>mostly experienced with php, some experience with C.<br>going to put personal projects on here, aswell as any related to school.<br>
 
 
 ## 🌐 Socials:
